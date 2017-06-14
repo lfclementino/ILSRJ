@@ -1,0 +1,213 @@
+TER 00:00 Viaduto de Todos os Santos- sentido Engenhao - Bom
+TER 00:00 Boulevard 28 de Setembro, altura da Rua Felipe Camarao - Bom
+TER 00:00 Rua Uruguai, altura da Rua Maxwell - Bom
+TER 00:00 Rua Teodoro da Silva, altura da Rua Barao de Sao Francisco - Bom
+TER 00:00 Praca da Bandeira - Sentido Tijuca - Bom
+TER 00:07 Av. Maracana, altura da Rua Dep. Soares Filho - sentido zona norte - Bom
+TER 00:07 Av. Ayrton Senna, altura do Hospital Lourenco Jorge - sentido Orla - Bom
+TER 00:07 Av. Ayrton Senna, altura do Hospital Lourenco Jorge - sentido Jacarepagua - Bom
+TER 00:07 Av. das Americas, altura da Rua Afonso Arinos de Melo Franco - sentido Recreio - Bom
+TER 00:07 Av. Nossa Senhora de Copacabana, altura da Rua Santa Clara - Bom
+TER 00:08 Rua das Laranjeiras, altura da Rua Soares Cabral - sentido Cosme Velho - Bom
+TER 00:14 Rua das Laranjeiras, altura da Rua Soares Cabral - sentido Botafogo - Bom
+TER 05:02 TERRA: Acidente congestiona Via Dutra na madrugada http://bit.ly/50B7Ie
+TER 06:03 JB: Confira os radares da CET-Rio nesta segunda-feira http://bit.ly/4st8sK
+TER 06:47 CLIMATEMPO: Instabilidade enfraquece no Rio de Janeiro http://bit.ly/8vCxof
+TER 07:05 G1: Cachorro invade pista e tumultua transito na Ponte Rio-Niteroi http://bit.ly/7l8WNr
+TER 07:05 TERRA: Rachadura de 15 m leva policia a interditar rodovia no Rio http://bit.ly/7BSN2l
+TER 07:11 JB: Aeroportos do Rio operam normalmente http://bit.ly/62dwqG
+TER 07:24 MAPLINK: No Rio, Brasil conta com circulacao carregada http://bit.ly/7Uwtav
+TER 07:30 EXTRA: Barcas operam normalmente http://bit.ly/8S9ja1
+TER 07:36 MAPLINK: Rio: Teodoro da Silva tem movimentacao intensa http://bit.ly/6mzraC
+TER 08:01 TERRA: Carro desgovernado derruba muro de casa no Rio http://bit.ly/6pegvg
+TER 08:13 MAPLINK: Avenida Ayrton Senna esta com mau deslocamento http://bit.ly/7ji2EW
+TER 08:19 EXTRA: Congestionamento na Avenida Brasil http://bit.ly/7p9szW
+TER 08:25 Av. Primeiro de Marco, chegada a Candelaria - Intenso http://twitpic.com/tlp7y
+TER 08:25 Av. Presidente Vargas, altura da Av. Rio Branco - sentido Candelaria - Intenso http://twitpic.com/tlp8f
+TER 08:26 Av. Presidente Vargas, altura da Central - sentido Candelaria - Intenso http://twitpic.com/tlp8x
+TER 08:26 Av. Rio Branco, altura da Rua Almirante Barroso - Intenso http://twitpic.com/tlp9v
+TER 08:26 Rua Visconde do Rio Branco, altura da Praca da Republica - Intenso http://twitpic.com/tlpae
+TER 08:26 Rua Frei Caneca, altura da Rua do Santana - Intenso http://twitpic.com/tlpav
+TER 08:27 MAPLINK: Mario Ribeiro conta com trafego engarrafado http://bit.ly/4yw3RA
+TER 08:33 Av. Presidente Antonio Carlos, altura da Av. Pres Wilson - Intenso http://twitpic.com/tlpqa
+TER 08:33 Rua Visconde do Rio Branco, altura da Praca Tiradentes - Intenso http://twitpic.com/tlpqn
+TER 08:33 Av. Francisco Bicalho, altura da Leopoldina - sentido Centro - Intenso http://twitpic.com/tlpr7
+TER 08:33 Descida da Linha Vermelha, altura da Leopoldina - sentido Bicalho - Intenso http://twitpic.com/tlpri
+TER 08:52 MAPLINK: Presidente Vargas tem transito congestionado http://bit.ly/6FSZOD
+TER 08:59 G1: Transito tem retencoes em alguns pontos do Rio http://bit.ly/8j8tEA
+TER 09:07 MAPLINK: Visconde do Rio Branco segue com circulacao ruim http://bit.ly/8YR9MN
+TER 09:12 JB: Onibus enguica na Presidente Vargas http://bit.ly/79VxdC
+TER 09:13 EXTRA: Onibus enguicado causa retencoes na Avenida Presidente Vargas http://bit.ly/7GSQEP
+TER 09:26 MAPLINK: Francisco Bicalho conta com deslocamento lento http://bit.ly/5x1WdU
+TER 09:37 Av. Brasil, altura da Rua Pref. Olimpio de Melo, pista lateral - sentido Centro - Bom
+TER 09:44 JB: Avenida Brasil com muitos pontos de retencao http://bit.ly/7DPsK4
+TER 09:50 JB: Dias da Cruz com lentidao no sentido Engenho Novo http://bit.ly/6AM3ES
+TER 09:51 MAPLINK: Dias da Cruz tem trafego complicado, diz CET-Rio http://bit.ly/5sg3BT
+TER 09:57 Praca da Bandeira - Sentido Centro - Bom
+TER 09:57 Radial Oeste, altura do Maracana - sentido Meier - Bom
+TER 09:57 Rua Sao Clemente, altura da Rua Muniz Barreto - Intenso http://twitpic.com/tlvkp
+TER 09:57 Rua Humaita, altura Rua Macedo Sobrinho - sentido Lagoa - Intenso http://twitpic.com/tlvla
+TER 09:58 Rua Humaita, altura Rua Macedo Sobrinho - sentido Botafogo - Intenso http://twitpic.com/tlvm2
+TER 09:58 Av. Venceslau Bras, altura da Rua Lauro Muller - sentido Aterro do Flamengo - Bom
+TER 09:58 EXTRA: Dois carros batem na Avenida Brasil, sentido Zona Oeste http://bit.ly/52ou0N
+TER 09:59 EXTRA: Manifestacao causa retencao na pista central da Avenida Brasil http://bit.ly/8yavM9
+TER 10:04 Rua Barata Ribeiro, altura da Rua Duvivier - Bom
+TER 10:05 Av. Atlantica, altura do posto 2 - sentido Leme - Bom
+TER 10:05 Corte do Cantagalo - sentido Lagoa - Bom
+TER 10:05 Corte do Cantagalo - sentido Copacabana - Bom
+TER 10:05 Rua Barata Ribeiro, entre a Rua Santa Clara e a Rua Bolivar - Intenso http://twitpic.com/tlw52
+TER 10:05 Av. Nossa Senhora de Copacabana, altura da Rua Almte. Goncalves - Bom
+TER 10:06 JB: Choque de dois veiculos e passeata na Avenida Brasil http://bit.ly/8n92Ax
+TER 10:06 MAPLINK: Praca da Bandeira esta com movimentacao intensa http://bit.ly/5udbMW
+TER 10:07 TERRA: Rio tem manha de transito intenso na Linha Vermelha http://bit.ly/92sR0d
+TER 10:07 TERRA: Onibus derruba poste em avenida da zona norte do Rio http://bit.ly/7gSFVz
+TER 10:12 Rua das Laranjeiras, altura da Rua Soares Cabral - sentido Cosme Velho - Bom
+TER 10:13 Rua das Laranjeiras, altura da Rua Soares Cabral - sentido Botafogo - Bom
+TER 10:13 Av. Epitacio Pessoa, altura da Rua Maria Quiteria - sentido Barra - Intenso http://twitpic.com/tlwqy
+TER 10:13 Rua Jardim Botanico, altura da Rua Pacheco Leao - sentido Gavea - Intenso http://twitpic.com/tlwrp
+TER 10:13 JB: Linha Vermelha com retencao na altura de Sao Cristovao http://bit.ly/6sIQjY
+TER 10:14 JB: Choque de dois carros e protesto de funcionarios da Fiocruz na Brasil http://bit.ly/8n92Ax
+TER 10:20 Av. Presidente Antonio Carlos, altura da Av. Pres Wilson - Bom
+TER 10:20 Rua Visconde do Rio Branco, altura da Praca Tiradentes - Bom
+TER 10:20 Av. Francisco Bicalho, altura da Leopoldina - sentido Centro - Bom
+TER 10:20 Descida da Linha Vermelha, altura da Leopoldina - sentido Bicalho - Bom
+TER 10:21 Radial Oeste, altura do Maracana - sentido Meier - Intenso http://twitpic.com/tlxd3
+TER 10:27 MAPLINK: Avenida Lucio Costa proporciona transito ruim http://bit.ly/6zioBH
+TER 10:33 Rua Visconde do Rio Branco, altura da Praca Tiradentes - Intenso http://twitpic.com/tlyb3
+TER 10:46 JB: Colisao entre 3 carros na Avenida Brasil http://bit.ly/7fGtjh
+TER 10:46 JB: Transito engarrafado na Brasil http://bit.ly/4T8D5P
+TER 10:46 JB:  reflexos nas Linhas Amarela e Vermelha http://bit.ly/6sIQjY
+TER 10:47 MAPLINK: Sao Clemente apresenta circulacao carregada http://bit.ly/7lomqE
+TER 11:24 EXTRA: Protesto de barraqueiros deixa transito lento na Avenida Vieira Souto http://bit.ly/52lOoi
+TER 11:31 EXTRA: Tres carros batem na pista central da Avenida Brasil http://bit.ly/6VLzIo
+TER 11:31 MAPLINK: Dom Helder Camara tem deslocamento pesado no Rio http://bit.ly/8Aytpw
+TER 11:31 MAPLINK: Voluntarios da Patria esta com fluxo dificil http://bit.ly/6CrGDT
+TER 11:37 EXTRA: Lentidao no acesso ao Centro do Rio http://bit.ly/6dQS9f
+TER 11:38 EXTRA: Transito lento na Via Dutra http://bit.ly/8NxMLI
+TER 11:38 EXTRA: Trafego em meia pista na serra de Petropolis http://bit.ly/5EDmWr
+TER 11:38 EXTRA: Transito lento na Linha Amarela http://bit.ly/5VmK1u
+TER 11:38 EXTRA: Utilitario enguica no Elevado Paulo de Frontin http://bit.ly/6v8Cg0
+TER 11:38 EXTRA: Onibus enguicado e retirado da Rua Jardim Botanico http://bit.ly/8sIzyQ
+TER 11:51 EXTRA: Caminhao enguica na pista central da Avenida Brasil http://bit.ly/822yQ0
+TER 11:51 MAPLINK: Motorista enfrenta engarrafamento na Humaita http://bit.ly/8uPNob
+TER 12:03 JB: Carro com enguico causa lentidao na Presidente Vargas http://bit.ly/8MKVaB
+TER 12:05 EXTRA: Carro enguica na Avenida Presidente Vargas http://bit.ly/82Jx4g
+TER 12:17 EXTRA: Obra causa retencoes na Rua Bela http://bit.ly/8uJiKs
+TER 12:18 MAPLINK: Barata Ribeiro proporciona trafego ruim no Rio http://bit.ly/8JZ3Nz
+TER 12:30 EXTRA: Caminhao e carro batem na Praca da Bandeira http://bit.ly/54L9Ca
+TER 12:36 Av. Brasil, altura da Rua Pref. Olimpio de Melo, pista lateral - sentido Centro - Bom
+TER 12:36 Av. Brasil, altura da Rua Pref. Olimpio de Melo, pista central - sentido Zona Oeste - Bom
+TER 12:49 EXTRA: Manifestacao causa retencao na Rua Pinheiro Machado http://bit.ly/6Lo67d
+TER 12:57 EXTRA: Acao educativa na Ponte Rio-Niteroi compromete o transito na via http://bit.ly/5ZKCNQ
+TER 13:20 MAPLINK: Epitacio Pessoa apresenta fluxo congestionado http://bit.ly/4Cuz5n
+TER 13:27 MAPLINK: Borges de Medeiros proporciona ma movimentacao http://bit.ly/8lwrC9
+TER 13:39 RT @LeilaOlle LeilaOlle  #ilsrj Dep Paulo Pimenta defende criacao de mecanismo p/ priorizar projeto apoiado pelo cidadao.PARABENS.
+TER 13:46 MAPLINK: Salim Farah Maluf esta com transito carregado http://bit.ly/7SRRbj
+TER 13:52 Av. Presidente Wilson, altura da Rua Calogenas - Intenso http://twitpic.com/tmi61
+TER 13:52 Av. Venceslau Bras, altura da Rua Lauro Muller - sentido Aterro do Flamengo - Intenso http://twitpic.com/tmi6t
+TER 13:52 Av. Visconde de Piraja, altura da Praca Nossa Senhora da Paz - Intenso http://twitpic.com/tmi7q
+TER 13:53 MAPLINK: Jardim Botanico conta com deslocamento lento http://bit.ly/8kuLhi
+TER 14:20 Av. Brasil, altura da Rua Pref. Olimpio de Melo, pista lateral - sentido Zona Oeste - Bom
+TER 14:20 Rua Sen. Bernardo Monteiro, altura da Av. Dom Helder Camara - sentido Sao Cristovao - Bom
+TER 14:21 MAPLINK: Condutor enfrenta fluxo dificil na Vieira Souto http://bit.ly/4G3StA
+TER 14:21 CLIMATEMPO: Sol e nuvens no Rio http://bit.ly/5HgbDC
+TER 14:33 MAPLINK: Dias da Cruz apresenta ma fluidez de veiculos http://bit.ly/4DRGuh
+TER 14:39 JB: Colisao entre dois carros complica transito na Linha Vermelha http://bit.ly/5xHKBr
+TER 14:52 MAPLINK: Circulacao na Mario Ribeiro segue com problemas http://bit.ly/6oKaJj
+TER 14:58 Av. Presidente Vargas, altura da Central - sentido Candelaria - Bom
+TER 14:58 Av. Rio Branco, altura da Rua Almirante Barroso - Bom
+TER 14:58 Rua Visconde do Rio Branco, altura da Praca da Republica - Bom
+TER 14:59 Rua Frei Caneca, altura da Rua do Santana - Bom
+TER 14:59 Rua Visconde do Rio Branco, altura da Praca Tiradentes - Bom
+TER 14:59 Av. Presidente Wilson, altura da Rua Calogenas - Bom
+TER 15:06 Av. Francisco Bicalho, altura da Leopoldina - sentido Centro - Intenso http://twitpic.com/tmr8s
+TER 15:06 Descida da Linha Vermelha, altura da Leopoldina - sentido Bicalho - Intenso http://twitpic.com/tmr9r
+TER 15:13 MAPLINK: Presidente Vargas esta com trafego carregado http://bit.ly/6YOfE0
+TER 15:54 MAPLINK: Vieira Souto apresenta ponto de lentidao no Rio http://bit.ly/5froYm
+TER 15:59 Rua Sao Luis Gonzaga, altura da Rua Sao Januario - sentido Benfica - Bom
+TER 16:00 Largo da Cancela - sentido Centro - Bom
+TER 16:01 MAPLINK: Fluxo na Jardim Botanico segue com lentidao http://bit.ly/7PUfYo
+TER 16:13 JB: Lentidao na Av. Brasil http://bit.ly/8GkCCv
+TER 16:13 MAPLINK: Francisco Bicalho tem ma fluidez de veiculos http://bit.ly/7DJBbB
+TER 16:44 MAPLINK: Epitacio Pessoa esta com transito complicado http://bit.ly/5ugOJo
+TER 17:03 Av. Presidente Vargas, altura da Av. Rio Branco - sentido Candelaria - Bom
+TER 17:03 Av. Presidente Vargas, altura da Av. Rio Branco - sentido Praca da Bandeira - Intenso http://twitpic.com/tn6to
+TER 17:04 MAPLINK: Motorista enfrenta morosidade na Barata Ribeiro http://bit.ly/6Tlbsv
+TER 17:16 Av. Brasil, altura da Rua Pref. Olimpio de Melo, pista central - sentido Zona Oeste - Intenso
+TER 17:22 MAPLINK: Transito na Maracana apresenta trecho moroso http://bit.ly/4VeZvu
+TER 17:42 MAPLINK: Conde de Bonfim esta com ponto de lentidao http://bit.ly/58CUZW
+TER 18:01 TERRA: Acidente com onibus deixa 8 feridos no Rio http://bit.ly/4nvwV6
+TER 18:07 MAPLINK: Veiculos trafegam com dificuldade pela Humaita http://bit.ly/4Z0436
+TER 18:13 Av. Rio Branco, altura da Av. Presidente Vargas - Intenso http://twitpic.com/tngf9
+TER 18:13 Av. Presidente Vargas, altura da Central - sentido Praca da Bandeira - Intenso http://twitpic.com/tnggi
+TER 18:13 Av. Perimetral, altura da Praca Maua - sentido Av. Brasil - Intenso http://twitpic.com/tnghr
+TER 18:13 Av. Rio Branco, altura da Rua Almirante Barroso - Intenso http://twitpic.com/tngj6
+TER 18:14 RT @raulzito #ILSRJ Ayrton Senna toda parada sentido amarela EVITE
+TER 18:14 G1: BR-040 esta em meia pista depois de queda de barreira http://bit.ly/5i4RJy
+TER 18:27 MAPLINK: Pinheiro Machado tem ponto congestionado no Rio http://bit.ly/6P2oI2
+TER 18:45 EXTRA: Rio-Teresopolis sofrera interrupcoes no transito de amanha ate sexta-feira http://bit.ly/5TxXGk
+TER 18:45 MAPLINK: Circulacao na Dias da Cruz segue com problemas http://bit.ly/5lPAzX
+TER 18:52 EXTRA: Rio-Teresopolis sofrera interrupcoes no transito de quarta ate sexta-feira http://bit.ly/7S6Sxf
+TER 18:58 EXTRA: Colisao entre dois onibus na Avenida Brasil http://bit.ly/5qASV2
+TER 19:04 JB: Dois onibus colidem na Av. Brasil http://bit.ly/5V8eOZ
+TER 19:05 MAPLINK: Jardim Botanico tem ponto de congestionamento http://bit.ly/5IPUaL
+TER 19:11 MAPLINK: Rua das Juntas Provisorias esta com lentidao http://bit.ly/5OsWYL
+TER 19:29 JB: Tres carros batem no Tunel Reboucas http://bit.ly/7Ipoxz
+TER 19:30 MAPLINK: Francisco Bicalho tem morosidade nos 2 sentidos http://bit.ly/54mgAe
+TER 20:01 MAPLINK: Sao Francisco Xavier apresenta circulacao ruim http://bit.ly/5q4Hg9
+TER 20:02 TERRA: SP: micro onibus cai no rio Aricanduva http://bit.ly/68kwGV
+TER 20:27 MAPLINK: Rua das Laranjeiras tem ma fluidez de veiculos http://bit.ly/81FrBI
+TER 20:45 MAPLINK: Conde de Bonfim apresenta transito intenso http://bit.ly/7CFjj3
+TER 21:04 MAPLINK: Motorista enfrenta morosidade na Lauro Sodre http://bit.ly/4JWSlU
+TER 21:16 Av. Primeiro de Marco, chegada a Candelaria - Bom
+TER 21:16 Av. Presidente Vargas, altura da Av. Rio Branco - sentido Praca da Bandeira - Bom
+TER 21:16 Av. Rio Branco, altura da Av. Presidente Vargas - Bom
+TER 21:16 Av. Presidente Vargas, altura da Central - sentido Praca da Bandeira - Bom
+TER 21:17 Av. Perimetral, altura da Praca Maua - sentido Av. Brasil - Bom
+TER 21:17 Av. Rio Branco, altura da Rua Almirante Barroso - Bom
+TER 21:23 Rua Visconde do Rio Branco, altura da Praca da Republica - Bom
+TER 21:23 Rua Frei Caneca, altura da Rua do Santana - Bom
+TER 21:23 Av. Presidente Antonio Carlos, altura da Av. Pres Wilson - Bom
+TER 21:24 Av. Franklin Roosevelt, altura da Av. Pres. Antonio Carlos - Bom
+TER 21:24 Rua Visconde do Rio Branco, altura da Praca Tiradentes - Bom
+TER 21:24 Trevo das Forcas Armadas - sentido Praca da Bandeira - Bom
+TER 21:30 Av. Francisco Bicalho, altura da Leopoldina - sentido Centro - Bom
+TER 21:31 Av. Francisco Bicalho, altura da Leopoldina - sentido Rodoviaria - Bom
+TER 21:31 Rua Dias da Cruz, altura da Rua Maranhao - sentido Engenho Novo - Bom
+TER 21:31 Rua Teodoro da Silva, altura da Rua Barao de Sao Francisco - Bom
+TER 21:31 Radial Oeste, altura do Maracana - sentido Meier - Intenso http://twitpic.com/to9z4
+TER 21:31 Rua Sao Francisco Xavier, altura da UERJ - sentido Meier - Bom
+TER 21:32 MAPLINK: Praca da Bandeira apresenta ponto de lentidao http://bit.ly/8lrCY3
+TER 21:38 Radial Oeste, altura da UERJ - sentido Meier - Bom
+TER 21:38 Av. Brasil, altura da Rua Pref. Olimpio de Melo, pista central - sentido Zona Oeste - Bom
+TER 21:38 Av. Brasil, altura da Rua Pref. Olimpio de Melo, pista lateral - sentido Zona Oeste - Bom
+TER 21:38 Av. Americas, altura da Rua Afonso Arinos de Melo Franco - sentido Sao Conrado - Bom
+TER 21:39 Av. das Americas, altura da Rua Afonso Arinos de Melo Franco - sentido Recreio - Bom
+TER 21:39 Av. Ministro Ivan Lins - sentido Recreio - Bom
+TER 21:45 Rua Pinheiro Machado - sentido tunel Santa Barbara - Intenso http://twitpic.com/toc16
+TER 21:45 Rua Lauro Sodre, altura da Rua Gal. Gois Monteiro - sentido Copacabana - Bom
+TER 21:46 Av. Atlantica, altura do posto 2 - sentido Ipanema - Bom
+TER 21:46 Av. Atlantica, altura do posto 4 - sentido Ipanema - Bom
+TER 21:46 Corte do Cantagalo - sentido Lagoa - Bom
+TER 21:46 Corte do Cantagalo - sentido Copacabana - Bom
+TER 21:54 Av. Borges de Medeiros, altura da Rua Mario Ribeiro - sentido Tunel Reboucas - Bom
+TER 21:54 Av. Epitacio Pessoa, altura da Rua Maria Quiteria - sentido Barra - Bom
+TER 21:54 Av. Epitacio Pessoa, altura da Rua Maria Quiteria - sentido Cantagalo - Bom
+TER 21:55 Rua Jardim Botanico, altura da Rua Pacheco Leao - sentido Gavea - Bom
+TER 22:01 MAPLINK: Circulacao na Jardim Botanico segue complicada http://bit.ly/7DibTf
+TER 22:32 Praca da Bandeira - Sentido Tijuca - Bom
+TER 22:32 Radial Oeste, altura do Maracana - sentido Meier - Bom
+TER 22:32 Av. Ayrton Senna, altura da Av. Abelardo Bueno - sentido Barra - Bom
+TER 22:32 Av. Ayrton Senna, altura do Via Parque - sentido Orla - Bom
+TER 22:33 Av. Ayrton Senna, altura do Hospital Lourenco Jorge - sentido Orla - Bom
+TER 22:33 Rua Pinheiro Machado - sentido tunel Santa Barbara - Bom
+TER 22:39 Rua Humaita, altura Rua Macedo Sobrinho - sentido Lagoa - Bom
+TER 22:39 Rua Humaita, altura Rua Macedo Sobrinho - sentido Botafogo - Bom
+TER 22:39 Av. Nossa Senhora de Copacabana, altura da Praca do Lido - Bom
+TER 22:40 Av. Nossa Senhora de Copacabana, altura da Rua Santa Clara - Bom
+TER 22:40 Rua das Laranjeiras, altura da Rua Soares Cabral - sentido Cosme Velho - Bom
+TER 22:40 Rua Jardim Botanico, altura do Parque Lage - sentido Gavea - Bom
+TER 22:46 Av. Borges de Medeiros - sentido tunel Reboucas - Bom
+TER 22:47 Av. Epitacio Pessoa - sentido tunel Reboucas - Bom
+TER 22:47 Rua Mario Ribeiro, altura da Praca Sibelius - sentido Barra - Bom
+TER 22:47 Rua Mario Ribeiro, altura da Praca Sibelius - sentido Lagoa - Bom

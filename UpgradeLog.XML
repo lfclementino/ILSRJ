@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Transito">
+</Property><Property Name="Solution File" Value="C:\C_Sharp\Transito\Transito.sln">
+</Property><Property Name="Date" Value="quinta-feira, 21 de abril de 2011">
+</Property><Property Name="Time" Value="15:52">
+</Property></Properties><Event ErrorLevel="0" Project="Transito" Source="Transito\Transito.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Transito" Source="Transito\Transito.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Transito.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Transito.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Transito" Source="Transito\Transito.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

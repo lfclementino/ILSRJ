@@ -1,0 +1,190 @@
+SEX 00:02 Av. Atlantica, altura do posto 6 - sentido Leme - Bom
+SEX 00:02 Corte do Cantagalo - sentido Lagoa - Bom
+SEX 00:03 Corte do Cantagalo - sentido Copacabana - Bom
+SEX 00:03 Rua Barata Ribeiro, entre a Rua Republica do Peru e a Rua Santa Clara - Bom
+SEX 00:03 Av. Nossa Senhora de Copacabana, altura da Rua Almte. Goncalves - Bom
+SEX 00:03 Rua das Laranjeiras, altura da Rua Soares Cabral - sentido Cosme Velho - Bom
+SEX 00:10 Av. Vieira Souto - sentido Av. Niemeyer - Bom
+SEX 00:10 Av. Visconde de Piraja, altura da Praca Nossa Senhora da Paz - Bom
+SEX 00:10 Av. Ataulfo de Paiva, altura da Rua Afranio de Melo Franco - Bom
+SEX 00:10 Av. Borges de Medeiros - sentido tunel Reboucas - Bom
+SEX 00:11 Av. Epitacio Pessoa - sentido tunel Reboucas - Bom
+SEX 00:11 Av. Borges de Medeiros, altura da Rua Mario Ribeiro - sentido Leblon - Bom
+SEX 00:17 Av. Borges de Medeiros, altura da Rua Mario Ribeiro - sentido Tunel Reboucas - Bom
+SEX 00:17 Av. Epitacio Pessoa, altura da Rua Maria Quiteria - sentido Barra - Bom
+SEX 00:18 Av. Epitacio Pessoa, altura da Rua Maria Quiteria - sentido Cantagalo - Bom
+SEX 00:18 Rua Jardim Botanico, altura da Rua Pacheco Leao - sentido Gavea - Bom
+SEX 00:18 Rua Mario Ribeiro, altura da Praca Sibelius - sentido Barra - Bom
+SEX 00:18 Rua Mario Ribeiro, altura da Praca Sibelius - sentido Lagoa - Bom
+SEX 00:25 Rua Jardim Botanico, altura da Pacheco Leao - sentido Botafogo - Bom
+SEX 00:25 Av. Prefeito Mendes de Morais, altura da Praia de Sao Conrado - Bom
+SEX 04:41 EXTRA: Acidente com onibus deixa dez feridos em Manguinhos http://bit.ly/8Lha3b
+SEX 06:02 JB: Confira a localizacao dos radares da CET-Rio nesta quinta-feira http://bit.ly/56opa6
+SEX 06:39 JB: Tres carros batem na Linha Vermelha http://bit.ly/8UOoEb
+SEX 06:40 TERRA: Acidente de onibus em Manguinhos deixa 10 feridos http://bit.ly/88Dh86
+SEX 07:04 Av. Presidente Vargas, altura da Av. Rio Branco - sentido Candelaria - Intenso http://twitpic.com/tzs6h
+SEX 07:29 JB: Caminhao enguica na Presidente Vargas http://bit.ly/7tfBOV
+SEX 08:00 EXTRA: Retencoes na Linha Amarela sentido Avenida Brasil http://bit.ly/71vi9E
+SEX 08:00 EXTRA: Lentidao na Avenida Brasil http://bit.ly/6KxBWf
+SEX 08:00 EXTRA: Trafego lento no Elevado do Gasometro http://bit.ly/5Iv8J1
+SEX 08:06 Av. Francisco Bicalho, altura da Leopoldina - sentido Centro - Intenso http://twitpic.com/tzxh7
+SEX 08:06 Descida da Linha Vermelha, altura da Leopoldina - sentido Bicalho - Intenso http://twitpic.com/tzxhp
+SEX 08:13 MAPLINK: Teodoro da Silva conta com transito ruim no Rio http://bit.ly/5WQzUy
+SEX 08:19 JB: Transito intenso na Avenida Brasil http://bit.ly/8jxNfq
+SEX 08:26 JB: Quatro carros e uma moto se acidentam na Avenida Brasil http://bit.ly/5joxcG
+SEX 08:26 EXTRA: Congestionamento na Praia do Flamengo http://bit.ly/5438pK
+SEX 08:27 MAPLINK: Francisco Bicalho segue com deslocamento pesado http://bit.ly/6cxmgY
+SEX 08:33 EXTRA: Acidente complica o transito na Avenida Brasil http://bit.ly/4qcfb0
+SEX 08:38 JB: Transito lento na Avenida Niemeyer http://bit.ly/6gtITN
+SEX 08:39 JB: Dois carros acidentados na Praia do Flamengo http://bit.ly/8BcOKo
+SEX 08:39 MAPLINK: Marechal Rondon proporciona movimentacao afetada http://bit.ly/8WKIZk
+SEX 08:58 MAPLINK: Conde de Bonfim esta com trafego engarrafado http://bit.ly/7WoEdG
+SEX 09:04 JB: Carro enguicado no Elevado Paulo de Frontin http://bit.ly/6Mn6CN
+SEX 09:10 Av. Rio Branco, altura da Rua Almirante Barroso - Intenso http://twitpic.com/u02w7
+SEX 09:11 Av. Presidente Wilson, altura da Rua Calogenas - Intenso http://twitpic.com/u02x4
+SEX 09:18 MAPLINK: Presidente Vargas segue com transito intenso http://bit.ly/5i5Whf
+SEX 09:30 MAPLINK: Dias da Cruz tem fluxo carregado, diz CET-Rio http://bit.ly/5hVS6b
+SEX 09:42 JB: No Reboucas, carro enguicado causa retencao http://bit.ly/6e5NNv
+SEX 09:49 MAPLINK: Praca da Bandeira esta com deslocamento ruim http://bit.ly/7aBxJV
+SEX 10:01 JB: Radares da CET-Rio estarao em 14 locais nesta sexta-feira http://bit.ly/5uV9TY
+SEX 10:07 Av. Mal Rondom, altura da Rua Barao do Bom Retiro - sentido Maracana - Bom
+SEX 10:07 MAPLINK: No Rio, Linhas 1 e 2 do Metro sofrem atraso http://bit.ly/7IWC35
+SEX 10:13 JB: Recuperacao de pavimento na Linha Vermelha causa congestionamento http://bit.ly/7DJCPb
+SEX 10:13 JB: Acidente entre onibus e carro na Presidente Vargas http://bit.ly/4tVHyp
+SEX 10:14 RT @LeilaOlle #ILSRJ #prudente e feliz.O maior presente que poderemos ganhar e estarmos vivos em 2010.
+SEX 10:14 EXTRA: Acidente causa retencoes na Avenida Presidente Vargas http://bit.ly/6XG9aZ
+SEX 10:14 EXTRA: Obras na Linha Vermelha deixam o transito com retencoes http://bit.ly/6eHMQu
+SEX 10:27 MAPLINK: Viaduto de Todos os Santos segue com problemas http://bit.ly/69amWy
+SEX 10:33 EXTRA: Metro ainda opera com intervalos irregulares http://bit.ly/82BKqZ
+SEX 10:46 MAPLINK: Avenida Maracana tem movimentacao congestionada http://bit.ly/5D4jlF
+SEX 10:58 EXTRA: Acidente na Avenida Brasil envolve dois onibus, em Parada de Lucas http://bit.ly/7vdB62
+SEX 11:10 Av. Primeiro de Marco, chegada a Candelaria - Intenso http://twitpic.com/u0e9y
+SEX 11:10 Av. Presidente Vargas, altura da Av. Rio Branco - sentido Candelaria - Bom
+SEX 11:11 Av. Presidente Vargas, altura da Central - sentido Candelaria - Bom
+SEX 11:11 Av. Rio Branco, altura da Rua Almirante Barroso - Bom
+SEX 11:11 Av. Presidente Wilson, altura da Rua Calogenas - Bom
+SEX 11:24 MAPLINK: Avenida Ayrton Senna proporciona engarrafamento http://bit.ly/5Jx3GF
+SEX 11:30 EXTRA: Onibus enguicados complicam transito na Rio Branco http://bit.ly/6bz212
+SEX 11:31 CLIMATEMPO: Chuva fraca na zona oeste do Rio de Janeiro http://bit.ly/753gyg
+SEX 11:36 JB: Acidente na Praca da Bandeira causa retencao http://bit.ly/5TeZ0y
+SEX 11:37 EXTRA: Acidente causa retencoes na Praca da Bandeira http://bit.ly/87bhIw
+SEX 11:43 EXTRA: Dois carros batem no Elevado das Bandeiras http://bit.ly/6PqohK
+SEX 11:49 EXTRA: Transito esta complicado no Centro http://bit.ly/6QHaBi
+SEX 11:55 JB: Onibus enguicados na Rio Branco causam grande congestionamento http://bit.ly/6CPGdl
+SEX 11:56 MAPLINK: Ministro Ivan Lins apresenta circulacao intensa http://bit.ly/7QfPE8
+SEX 11:56 MAPLINK: Barata Ribeiro segue com deslocamento pesado http://bit.ly/4qgIm6
+SEX 12:09 MAPLINK: Sao Clemente tem transito complicado, diz CET http://bit.ly/8LckW5
+SEX 12:15 MAPLINK: Mario Ribeiro segue com circulacao carregada http://bit.ly/7cChsm
+SEX 12:21 Av. Presidente Vargas, altura da Av. Rio Branco - sentido Candelaria - Intenso http://twitpic.com/u0myw
+SEX 12:21 Av. Perimetral, altura da Praca Maua - sentido Praca XV - Lento http://twitpic.com/u0n04
+SEX 12:28 MAPLINK: Visconde de Piraja conta com transito intenso http://bit.ly/8Ln7fs
+SEX 12:46 MAPLINK: Jardim Botanico esta com movimentacao afetada http://bit.ly/4XEr2c
+SEX 13:11 MAPLINK: Rio: Voluntarios da Patria tem fluxo carregado http://bit.ly/7vdRRE
+SEX 13:18 Rua Mario Ribeiro, altura da Praca Sibelius - sentido Lagoa - Lento http://twitpic.com/u0ueq
+SEX 13:30 JB: Acidente causa lentidao ao longo da Almirante Barroso http://bit.ly/82kOI2
+SEX 13:30 JB: Obras de recuperacao de pavimentacao na Silva Jardim http://bit.ly/4q1qLC
+SEX 13:31 MAPLINK: Barata Ribeiro conta com movimentacao intensa http://bit.ly/4HL0p0
+SEX 13:49 JB: Acidente entre dois carrona na Armando lombardi causa congestionamento http://bit.ly/7SxDT9
+SEX 13:50 JB: Carro com enguico mecanico no Tunel Reboucas http://bit.ly/8D0JsU
+SEX 13:50 MAPLINK: Presidente Vargas segue com fluxo carregado http://bit.ly/4zc6aY
+SEX 14:03 JB: No Zuzu Angel, acidente entre tres carros http://bit.ly/7iQWHL
+SEX 14:03 JB: Acidente entre dois carro na Armando Lombardi causa congestionamento http://bit.ly/7SxDT9
+SEX 14:28 MAPLINK: Viaduto de Todos os Santos esta com fluxo ruim http://bit.ly/5JCBvp
+SEX 14:34 Rua Visconde do Rio Branco, altura da Praca Tiradentes - Lento http://twitpic.com/u15g9
+SEX 14:41 MAPLINK: Francisco Bicalho tem ma fluidez de veiculos http://bit.ly/7KHDVY
+SEX 15:07 MAPLINK: Conde de Bonfim esta carregada nos 2 sentidos http://bit.ly/4yvatJ
+SEX 15:12 Av. Brasil, altura da Rua Pref. Olimpio de Melo, pista lateral - sentido Centro - Bom
+SEX 15:13 Rua Pinheiro Machado - sentido tunel Santa Barbara - Lento http://twitpic.com/u1biw
+SEX 15:13 RT @LeilaOlle #ILSRJ Ai esta a A Lei 11.975 - A lei ainda Caso voce decida desistir da viagem, sera reembolsado do valor em ate 30
+SEX 15:26 MAPLINK: Via no Grajau e interditada para Roda de samba http://bit.ly/5Yst7S
+SEX 15:44 Av. Perimetral, altura da Praca Maua - sentido Praca XV - Bom
+SEX 15:45 Av. Perimetral, altura da Praca Maua - sentido Av. Brasil - Lento http://twitpic.com/u1gn1
+SEX 15:45 Av. Republica do Paraguai, altura do Largo da Lapa - Intenso http://twitpic.com/u1gob
+SEX 15:46 MAPLINK: Circulacao na Jardim Botanico segue complicada http://bit.ly/8T3HvI
+SEX 15:59 Rua Mario Ribeiro, altura da Praca Sibelius - sentido Barra - Intenso http://twitpic.com/u1iy4
+SEX 15:59 Rua Mario Ribeiro, altura da Praca Sibelius - sentido Lagoa - Bom
+SEX 16:06 MAPLINK: Rua das Laranjeiras tem lentidao nos 2 sentidos http://bit.ly/6wMh3z
+SEX 16:19 MAPLINK: Carlos Oswald e fechada para Icamento de carga http://bit.ly/4MvoOR
+SEX 16:26 Av. Maracana, altura do Maracana - sentido Tijuca - Intenso http://twitpic.com/u1n4p
+SEX 16:26 MAPLINK: Trafego na Barata Ribeiro apresenta morosidade http://bit.ly/6jj0a0
+SEX 16:59 JB: Transito com retencoes na Lagoa devido a acidente http://bit.ly/4Lv0wH
+SEX 17:00 EXTRA: Operacao policial causa retencoes na Autoestrada Lagoa-Barra http://bit.ly/5OJVYA
+SEX 17:00 MAPLINK: Especial de Natal fecha via no Jardim America http://bit.ly/8RakkN
+SEX 17:01 MAPLINK: Epitacio Pessoa esta com ma fluidez de veiculos http://bit.ly/4nfHhk
+SEX 17:13 EXTRA: Colisao entre tres carros na Lagoa http://bit.ly/8jd7Ri
+SEX 17:13 MAPLINK: Borges de Medeiros apresenta transito carregado http://bit.ly/6MiPM5
+SEX 17:19 Av. Venceslau Bras, altura da Rua Lauro Muller - sentido Aterro do Flamengo - Intenso http://twitpic.com/u1vzd
+SEX 17:20 Av. Borges de Medeiros, altura da Rua Mario Ribeiro - sentido Leblon - Lento http://twitpic.com/u1w0o
+SEX 17:20 Rua Mario Ribeiro, altura da Praca Sibelius - sentido Lagoa - Intenso http://twitpic.com/u1w2m
+SEX 17:20 Rua Jardim Botanico, altura da Pacheco Leao - sentido Botafogo - Intenso http://twitpic.com/u1w4s
+SEX 17:39 EXTRA: Rua Riachuelo congestionada no sentido Lapa http://bit.ly/4p2MuB
+SEX 17:46 MAPLINK: Dias da Cruz esta com ma fluidez de veiculos http://bit.ly/5ak04b
+SEX 17:52 MAPLINK: Motorista enfrenta transito lento na Maracana http://bit.ly/7hfBqm
+SEX 18:11 MAPLINK: Circulacao na Venceslau Bras segue complicada http://bit.ly/5GjD0D
+SEX 18:35 MAPLINK: Ministro Ivan Lins tem ma fluidez de veiculos http://bit.ly/54famI
+SEX 18:42 EXTRA: Acidente entre tres carros na Linha Vermelha http://bit.ly/7qUI2R
+SEX 18:48 RT @LeilaOlle #ILSRJ TRANSITO - ALERTA PARA UM FINAL DE ANO COM MAIS SEGURANCA. www.cinto-salvavidas.blogspot.com
+SEX 18:54 MAPLINK: Fluxo na Avenida das Americas segue carregado http://bit.ly/6YusG9
+SEX 19:01 EXTRA: Colisao entre quatro carros no Elevado da Perimetral http://bit.ly/4zWSbb
+SEX 19:14 MAPLINK: Mario Ribeiro esta com trafego intenso no Rio http://bit.ly/8yq6yQ
+SEX 19:26 Av. Presidente Vargas, altura da Av. Rio Branco - sentido Candelaria - Bom
+SEX 19:26 Av. Presidente Vargas, altura da Av. Rio Branco - sentido Praca da Bandeira - Intenso http://twitpic.com/u2hc9
+SEX 19:26 Av. Rio Branco, altura da Av. Presidente Vargas - Intenso http://twitpic.com/u2heg
+SEX 19:27 Av. Perimetral, altura da Praca Maua - sentido Praca XV - Intenso http://twitpic.com/u2hfv
+SEX 19:27 Av. Perimetral, altura da Praca Maua - sentido Av. Brasil - Bom
+SEX 19:27 Rua Visconde do Rio Branco, altura da Praca da Republica - Intenso http://twitpic.com/u2hj3
+SEX 19:34 Radial Oeste - Sentido Centro - Bom
+SEX 19:34 Av. Nossa Senhora de Copacabana, altura da Praca do Lido - Bom
+SEX 19:34 Av. Nossa Senhora de Copacabana, altura da Rua Santa Clara - Bom
+SEX 19:34 Rua das Laranjeiras, altura da Rua Soares Cabral - sentido Cosme Velho - Bom
+SEX 19:34 Rua das Laranjeiras, altura da Rua Soares Cabral - sentido Botafogo - Bom
+SEX 19:35 Av. Borges de Medeiros, altura da Rua Mario Ribeiro - sentido Leblon - Intenso http://twitpic.com/u2ivu
+SEX 19:35 MAPLINK: Nossa Senhora de Copacabana tem fluxo moroso http://bit.ly/71qUvq
+SEX 19:41 Av. Borges de Medeiros, altura da Rua Mario Ribeiro - sentido Tunel Reboucas - Bom
+SEX 19:48 JB: Transito lento no Elevado Paulo de Frontin http://bit.ly/5EoOlV
+SEX 19:54 MAPLINK: Presidente Vargas esta com trafego carregado http://bit.ly/735uZP
+SEX 20:00 RT @LeilaOlle #ILSRJ TRANSITO - ALERTA PARA UM FINAL DE ANO COM MAIS SEGURANCA. www.cinto-salvavidas.blogspot.com - SISTECC
+SEX 20:13 CLIMATEMPO: Chuva fraca na zona oeste do Rio de Janeiro - RJ http://bit.ly/8SNQs3
+SEX 20:16 MAPLINK: Epitacio Pessoa apresenta transito intenso http://bit.ly/54oBAw
+SEX 20:35 MAPLINK: Fluxo na Teodoro da Silva segue com problemas http://bit.ly/6k0kOP
+SEX 20:41 Av. Primeiro de Marco, chegada a Candelaria - Bom
+SEX 20:41 Av. Presidente Vargas, altura da Av. Rio Branco - sentido Praca da Bandeira - Bom
+SEX 20:41 Av. Rio Branco, altura da Av. Presidente Vargas - Bom
+SEX 20:42 Av. Perimetral, altura da Praca Maua - sentido Praca XV - Bom
+SEX 20:42 Rua Visconde do Rio Branco, altura da Praca da Republica - Bom
+SEX 20:42 Rua Frei Caneca, altura da Rua do Santana - Bom
+SEX 20:49 Av. Presidente Antonio Carlos, altura da Av. Pres Wilson - Bom
+SEX 20:49 Rua Visconde do Rio Branco, altura da Praca Tiradentes - Bom
+SEX 20:49 Av. Republica do Paraguai, altura do Largo da Lapa - Bom
+SEX 20:49 Trevo das Forcas Armadas - sentido Praca da Bandeira - Intenso http://twitpic.com/u2vyr
+SEX 20:49 Av. Francisco Bicalho, altura da Leopoldina - sentido Centro - Bom
+SEX 20:50 Av. Francisco Bicalho, altura da Leopoldina - sentido Rodoviaria - Intenso http://twitpic.com/u2w12
+SEX 20:50 MAPLINK: Viaduto de Todos os Santos tem fluxo intenso http://bit.ly/8AvveK
+SEX 20:56 Boulevard 28 de Setembro, altura da Rua Felipe Camarao - Bom
+SEX 21:15 JB: Carro e moto colidem na Av. Brasil http://bit.ly/4Idgu8
+SEX 21:34 MAPLINK: Jardim Botanico esta com transito complicado http://bit.ly/8r5Q2o
+SEX 22:12 Av. Presidente Vargas, altura da Central - sentido Praca da Bandeira - Bom
+SEX 22:12 Viaduto Castro Alves - sentido Av. Amaro Cavalcanti - Bom
+SEX 22:13 Rua Dias da Cruz, altura da Rua Maranhao - sentido Engenho Novo - Bom
+SEX 22:13 Rua Dias da Cruz, altura da Rua Maranhao - sentido Encantado - Bom
+SEX 22:13 Viaduto de Todos os Santos- sentido Engenhao - Bom
+SEX 22:13 Rua Uruguai, altura da Rua Maxwell - Bom
+SEX 22:20 Radial Oeste, altura do Maracana - sentido Meier - Intenso http://twitpic.com/u3bco
+SEX 22:20 Av. Ayrton Senna, altura da Av. Abelardo Bueno - sentido Barra - Bom
+SEX 22:20 Av. Ayrton Senna, altura do Via Parque - sentido Orla - Bom
+SEX 22:20 Av. Ayrton Senna, altura do Hospital Lourenco Jorge - sentido Orla - Bom
+SEX 22:20 Av. Americas, altura da Rua Afonso Arinos de Melo Franco - sentido Sao Conrado - Bom
+SEX 22:20 Av. das Americas, altura da Rua Afonso Arinos de Melo Franco - sentido Recreio - Bom
+SEX 22:27 Av. Ministro Ivan Lins - sentido Recreio - Bom
+SEX 22:27 Rua Pinheiro Machado - sentido tunel Santa Barbara - Lento http://twitpic.com/u3ckl
+SEX 22:27 Rua Voluntarios da Patria, altura da Rua Real Grandeza - Bom
+SEX 22:27 Av. Venceslau Bras, altura da Rua Lauro Muller - sentido Aterro do Flamengo - Bom
+SEX 22:28 Av. Delfim Moreira - sentido Av. Niemeyer - Bom
+SEX 22:28 Av. Visconde de Piraja, altura da Praca Gal. Osorio - Bom
+SEX 22:34 Av. Borges de Medeiros - sentido tunel Reboucas - Bom
+SEX 22:34 Av. Epitacio Pessoa - sentido tunel Reboucas - Bom
+SEX 22:34 Av. Borges de Medeiros, altura da Rua Mario Ribeiro - sentido Leblon - Bom
+SEX 22:35 Av. Epitacio Pessoa, altura da Rua Maria Quiteria - sentido Barra - Bom
+SEX 22:35 Rua Mario Ribeiro, altura da Praca Sibelius - sentido Barra - Bom
+SEX 22:35 Rua Mario Ribeiro, altura da Praca Sibelius - sentido Lagoa - Bom
+SEX 22:41 Rua Jardim Botanico, altura da Pacheco Leao - sentido Botafogo - Bom

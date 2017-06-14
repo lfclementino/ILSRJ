@@ -1,0 +1,8 @@
+D:\C_Sharp\Transito\Transito\obj\Debug\ResolveAssemblyReference.cache
+D:\C_Sharp\Transito\Transito\obj\Debug\Transito.Form1.resources
+D:\C_Sharp\Transito\Transito\obj\Debug\Transito.Properties.Resources.resources
+D:\C_Sharp\Transito\Transito\obj\Debug\Transito.csproj.GenerateResource.Cache
+D:\C_Sharp\Transito\Transito\bin\Debug\Transito.exe
+D:\C_Sharp\Transito\Transito\bin\Debug\Transito.pdb
+D:\C_Sharp\Transito\Transito\obj\Debug\Transito.exe
+D:\C_Sharp\Transito\Transito\obj\Debug\Transito.pdb

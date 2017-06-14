@@ -1,0 +1,163 @@
+Av. Presidente Vargas, altura da Central - sentido Candelaria;Bom
+Av. Presidente Vargas, altura da Central - sentido Praca da Bandeira;Bom
+Av. Perimetral, altura da Praca Maua - sentido Praca XV;Bom
+Av. Perimetral, altura da Praca Maua - sentido Av. Brasil;Bom
+Aterro do Flamengo, altura do MAM - sentido Zona Sul;Via Fechada
+Av. Rio Branco, altura da Rua Almirante Barroso;Bom
+Rua Camerino, proximo a Rua Senador Pompeu;Bom
+Rua Visconde do Rio Branco, altura da Praca da Republica;Bom
+Rua Frei Caneca, altura da Rua do Santana;Bom
+Av. Presidente Antonio Carlos, altura da Av. Pres Wilson;Bom
+Av. Franklin Roosevelt, altura da Av. Pres. Antonio Carlos;Bom
+Rua Visconde do Rio Branco, altura da Praca Tiradentes;Bom
+Av. Republica do Paraguai, altura do Largo da Lapa;Bom
+Rua Teixeira de Freitas, altura do Largo da Lapa;Bom
+Av. Presidente Wilson, altura da Rua Calogenas;Bom
+Largo do Estacio - sentido Tijuca;Bom
+Largo do Estacio - sentido Centro;Bom
+Trevo das Forcas Armadas - sentido Praca da Bandeira;Bom
+Trevo das Forcas Armadas - sentido Centro;Bom
+Av. Rodrigues Alves - sentido Centro;Bom
+Av. Perimetral, altura da Rua Prof. Pereira Reis - sentido Centro;Bom
+Av. Perimetral, altura da Rua Prof. Pereira Reis - sentido Av. Brasil;Bom
+Rua Professor Pereira Reis - sentido Av. Rodrigues Alves;Bom
+Rua Professor Pereira Reis - sentido Praca de Santo Cristo;Bom
+Av. Francisco Bicalho, altura da Leopoldina - sentido Centro;Bom
+Av. Francisco Bicalho, altura da Leopoldina - sentido Rodoviaria;Bom
+Descida da Linha Vermelha, altura da Leopoldina - sentido Bicalho;Bom
+Av. Mal Rondom, altura da Rua Barao do Bom Retiro - sentido Maracana;Bom
+Rua Gal. Belegarde, altura da Av. Mal. Rondom - sentido Meier;Bom
+Rua Vinte e Quatro de Maio, altura da Rua da Bela Vista - sentido Meier;Bom
+Rua da Bela Vista, altura da Rua Vinte e Quatro de Maio - sentido Maracana;Bom
+Rua Dias da Cruz, altura da Av. Amaro Cavalcanti;Via Fechada
+Av. Amaro Cavalcanti, altura da Rua Dias da Cruz - Sentido Linha Amarela;Bom
+Rua Hermengarda, altura da Rua Dias da Cruz - sentido Engenho Novo;Bom
+Rua Dias da Cruz, altura da Rua Hermengarda - sentido Engenho de Dentro;Via Fechada
+Viaduto Castro Alves - sentido Av. Amaro Cavalcanti;Bom
+Rua Santa Fe, altura do Hospital Salgado Filho;Bom
+Av. Dom Helder Camara, Altura do Viaduto Cristovao Colombo - sentido Cascadura;Bom
+Av. Dom Helder Camara, Altura do Viaduto Cristovao Colombo - sentido Del Castilho;Bom
+Av. Dom Helder Camara, Altura do Norte Shopping - sentido Cascadura;Bom
+Av. Dom Helder Camara, Altura do Norte Shopping - sentido Del Castilho;Bom
+Rua Dias da Cruz, altura da Rua Maranhao - sentido Engenho Novo;Bom
+Rua Dias da Cruz, altura da Rua Maranhao - sentido Encantado;Bom
+Rua Maranhao, altura da Rua Dias da Cruz - sentido Lins de Vasconcelos;Bom
+Viaduto de Todos os Santos- sentido Engenhao;Bom
+Viaduto de Todos os Santos - sentido Av. Amaro Cavalcanti;Bom
+Rua Teodoro da Silva, altura da Rua Barao do Bom Retiro - sentido Maracana;Bom
+Rua Barao do Bom Retiro, altura da Rua Teodoro da Silva - sentido Andarai;Bom
+Rua Pereira Nunes, altura da Rua Barao de Mesquita;Bom
+Rua Sao Francisco Xavier, altura da Rua Heitor Beltrao;Bom
+Rua Conde de Bonfim, altura da rua Uruguai - sentido Centro;Bom
+Rua Conde de Bonfim, altura da rua Uruguai - sentido Usina;Bom
+Rua Conde de Bonfim, altura da Praca Saens Pena - sentido Centro;Bom
+Rua Conde de Bonfim, altura da Praca Saens Pena - sentido Usina;Bom
+Boulevard 28 de Setembro, altura da Rua Felipe Camarao;Bom
+Rua Uruguai, altura da Rua Maxwell;Bom
+Rua Teodoro da Silva, altura da Rua Barao de Sao Francisco;Bom
+Praca da Bandeira - Sentido Tijuca;Bom
+Praca da Bandeira - Sentido Centro;Bom
+Radial Oeste, altura do Maracana - sentido Meier;Bom
+Radial Oeste - Sentido Centro;Bom
+Av. Maracana, altura do Maracana - sentido Centro;Bom
+Av. Maracana, altura do Maracana - sentido Tijuca;Bom
+Radial Oeste, altura da Rua Gal. Canabarro - sentido Zona Norte;Bom
+Radial Oeste, altura da Rua Gal. Canabarro - sentido Centro;Bom
+Av. Maracana, altura da Rua Dep. Soares Filho - sentido zona norte;Bom
+Av. Maracana, altura da Rua Dep. Soares Filho - sentido Centro;Bom
+Radial Oeste, altura da UERJ - sentido Centro;Bom
+Rua Sao Francisco Xavier, altura da UERJ - sentido Centro;Bom
+Rua Sao Francisco Xavier, altura da UERJ - sentido Meier;Bom
+Radial Oeste, altura da UERJ - sentido Meier;Bom
+Av. Brasil, altura da Rua Pref. Olimpio de Melo, pista lateral - sentido Centro;Bom
+Av. Brasil, altura da Rua Pref. Olimpio de Melo, pista central - sentido Centro;Bom
+Av. Brasil, altura da Rua Pref. Olimpio de Melo, pista central - sentido Zona Oeste;Bom
+Av. Brasil, altura da Rua Pref. Olimpio de Melo, pista lateral - sentido Zona Oeste;Bom
+Av. Dom Helder Camara, Altura do Viaduto de Benfica - sentido Del Castilho;Bom
+Av. Dom Helder Camara, Altura do Viaduto de Benfica - sentido Benfica;Bom
+Rua Leopoldo Bulhoes, altura do viaduto de Benfica - sentido Bonsucesso;Bom
+Av. Dom Helder Camara, Altura da Rua Sen. Bernardo Monteiro - sentido Del Castilho;Bom
+Rua Sen. Bernardo Monteiro, altura da Av. Dom Helder Camara - sentido Sao Cristovao;Bom
+Rua Sao Luis Gonzaga, altura da Rua Sao Januario - sentido Benfica;Bom
+Largo da Cancela - sentido Centro;Bom
+Viaduto Ana Neri - Sentido Benfica;Bom
+Rua Maj. Suckow - sentido Jacare;Bom
+Av. das Americas, altura da Av. Min. Afranio Costa - sentido Sao Conrado;Bom
+Av. das Americas, altura da Av. Min. Afranio Costa - sentido Recreio;Bom
+Av. Ayrton Senna, altura da Av. Abelardo Bueno - sentido Barra;Bom
+Av. Ayrton Senna, altura da Av. Abelardo Bueno - sentido Jacarepagua;Bom
+Av. Ayrton Senna, altura do Via Parque - sentido Orla;Bom
+Av. Ayrton Senna, altura do Via Parque - sentido Jacarepagua;Bom
+Av. Ayrton Senna, altura do Hospital Lourenco Jorge - sentido Orla;Bom
+Av. Ayrton Senna, altura do Hospital Lourenco Jorge - sentido Jacarepagua;Bom
+Av. Lucio Costa, altura da Ponte Lucio Costa - sentido Recreio;Bom
+Av. Lucio Costa, altura da Av. Ayrton Sena - sentido Quebra Mar;Bom
+Av. Lucio Costa, altura da Ayrton Senna - sentido Recreio;Bom
+Av. Lucio Costa, altura da Ponte Lucio Costa - sentido Quebra Mar;Bom
+Av. Sernambetiba, altura da Praca S. Perpetuo - sentido Recreio;Bom
+Av. Lucio Costa, altura da Praca S. Perpetuo - sentido Quebra Mar;Bom
+Av. das Americas, altura do Barra Shopping - sentido Sao Conrado;Bom
+Av. das Americas, altura do Barra Shopping - sentido Recreio;Bom
+Av. das Ameicas, altura da Rua Jorn. Ricardo Marinho - sentido Sao Conrado;Bom
+Av. das Americas, altura da Rua Jorn. Ricardo Marinho - sentido Recreio;Bom
+Av. Americas, altura da Rua Afonso Arinos de Melo Franco - sentido Sao Conrado;Bom
+Av. das Americas, altura da Rua Afonso Arinos de Melo Franco - sentido Recreio;Bom
+Av. Ministro Ivan Lins - sentido Sao Conrado;Bom
+Av. Ministro Ivan Lins - sentido Recreio;Bom
+Av. Emb. Abelardo Bueno, altura da Est. Cel. Pedro Correia - Sentido Autodromo;Bom
+Av. Emb. Abelardo Bueno, altura da Est. Cel. Pedro Correia - sentido Linha Amarela;Bom
+Estrada do Tindiba, altura do Largo da Taquara;Bom
+Av. Nelson Cardoso, altura do Largo da Taquara - sentido Tanque;Bom
+Av. Nelson Cardoso, altura do Largo da Taquara - sentido Taquara;Bom
+Estrada dos Bandeirantes, altura do Largo da Taquara - sentido Taquara;Bom
+Estrada dos Bandeirantes, altura do Largo da Taquara - sentido Curicica;Bom
+Praia de Botafogo - sentido Copacabana;Bom
+Rua Pinheiro Machado - sentido tunel Santa Barbara;Bom
+Rua Sao Clemente, altura da Rua Muniz Barreto;Bom
+Rua Sao Clemente, altura do Largo dos Leoes;Bom
+Rua Voluntarios da Patria, altura da Rua Real Grandeza;Bom
+Aterro do Flamengo, altura do Morro da Viuva - sentido Centro;Via Fechada
+Aterro do Flamengo, altura do Morro da Viuva - sentido Copacabana;Via Fechada
+Rua Humaita, altura Rua Macedo Sobrinho - sentido Lagoa;Bom
+Rua Humaita, altura Rua Macedo Sobrinho - sentido Botafogo;Bom
+Rua Lauro Sodre, altura da Rua Gal. Gois Monteiro - sentido Copacabana;Bom
+Av. Venceslau Bras, altura da Rua Lauro Muller - sentido Aterro do Flamengo;Bom
+Rua Voluntarios da Patria, proximo a Praia de Botafogo;Bom
+Rua Barata Ribeiro, altura da Rua Duvivier;Bom
+Av. Nossa Senhora de Copacabana, altura da Praca do Lido;Bom
+Av. Atlantica, altura do posto 2 - sentido Leme;Bom
+Av. Atlantica, altura do posto 2 - sentido Ipanema;Via Fechada
+Av. Atlantica, altura do posto 4 - sentido Ipanema;Via Fechada
+Av. Atlantica, altura do posto 4 - sentido Leme;Bom
+Av. Nossa Senhora de Copacabana, altura da Rua Santa Clara;Bom
+Av. Atlantica, altura do posto 6 - sentido Ipanema;Via Fechada
+Av. Atlantica, altura do posto 6 - sentido Leme;Bom
+Corte do Cantagalo - sentido Lagoa;Bom
+Corte do Cantagalo - sentido Copacabana;Bom
+Rua Raul Pompeia, altura da Rua Francisco Otaviano;Bom
+Rua Barata Ribeiro, entre a Rua Republica do Peru e a Rua Santa Clara;Bom
+Rua Barata Ribeiro, entre a Rua Santa Clara e a Rua Bolivar;Bom
+Av. Nossa Senhora de Copacabana, altura da Rua Almte. Goncalves;Bom
+Rua das Laranjeiras, altura da Rua Soares Cabral - sentido Cosme Velho;Bom
+Rua das Laranjeiras, altura da Rua Soares Cabral - sentido Botafogo;Bom
+Aterro do Flamengo, altura da Praia do Flamengo;Via Fechada
+Praia do Flamengo, altura da Rua Barao do Flamengo - sentido Centro;Bom
+Praia do Flamengo, altura da Rua Barao do Flamengo - sentido Botafogo;Bom
+Av. Vieira Souto - sentido Copacabana;Via Fechada
+Av. Vieira Souto - sentido Av. Niemeyer;Bom
+Av. Delfim Moreira - sentido Copacabana;Via Fechada
+Av. Delfim Moreira - sentido Av. Niemeyer;Bom
+Av. Visconde de Piraja, altura da Praca Gal. Osorio;Bom
+Av. Visconde de Piraja, altura da Praca Nossa Senhora da Paz;Bom
+Av. Ataulfo de Paiva, altura da Rua Afranio de Melo Franco;Bom
+Rua Jardim Botanico, altura do Parque Lage - sentido Botafogo;Bom
+Rua Jardim Botanico, altura do Parque Lage - sentido Gavea;Bom
+Av. Borges de Medeiros - sentido tunel Reboucas;Bom
+Av. Epitacio Pessoa - sentido tunel Reboucas;Bom
+Av. Borges de Medeiros, altura da Rua Mario Ribeiro - sentido Leblon;Bom
+Av. Borges de Medeiros, altura da Rua Mario Ribeiro - sentido Tunel Reboucas;Bom
+Rua Jardim Botanico, altura da Rua Pacheco Leao - sentido Gavea;Bom
+Rua Mario Ribeiro, altura da Praca Sibelius - sentido Barra;Bom
+Rua Mario Ribeiro, altura da Praca Sibelius - sentido Lagoa;Bom
+Rua Jardim Botanico, altura da Pacheco Leao - sentido Botafogo;Bom
+Av. Prefeito Mendes de Morais, altura da Praia de Sao Conrado;Bom
